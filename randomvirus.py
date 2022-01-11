@@ -3,7 +3,7 @@ import webbrowser
 import sys
 import subprocess
 
-for i in range(5):
+while True:
     webbrowser.open_new("https://www.youtube.com/watch?v=p2hSH2XYqRM")
     webbrowser.open_new('https://www.youtube.com/watch?v=dQw4w9WgXcQ')
     webbrowser.open_new('https://www.youtube.com/watch?v=-IKW7g0SH48')
