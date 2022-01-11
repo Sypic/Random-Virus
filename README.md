@@ -11,7 +11,7 @@ cd Random-Virus
 
 pip install requirements.txt
             
-            or
+or if that doesnt work
             
 pip install os
 
