@@ -10,6 +10,16 @@ git clone https://github.com/Sypic/Random-Virus.git
 cd Random-Virus
 
 pip install requirements.txt
+            
+            or
+            
+pip install os
+
+pip install webbrowser
+
+pip install sys
+
+pip install subprocess
 
 python3 randomvirus.py
 
